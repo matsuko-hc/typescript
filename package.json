@@ -19,5 +19,8 @@
   "homepage": "https://github.com/matsuko-hc/typescript#readme",
   "dependencies": {
     "typescript": "^4.9.3"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
   }
 }
