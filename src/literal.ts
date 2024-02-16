@@ -9,7 +9,7 @@ month = 12;
 // month = 13;
 
 let trueTrue: true  = true;
-trueTrue = false;
+// trueTrue = false;
 
 
 //プリミティブ型よりさらに細かい指定ができる
