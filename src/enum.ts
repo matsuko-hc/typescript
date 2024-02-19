@@ -29,8 +29,11 @@ let green = Colors.green;
 console.log(green)
 
 enum Colors {
-	yellow = '#FFFF00'
+	yellow = '#FFFF00',
+	gray = '#808080'
 }
 let yellow = Colors.yellow;
+
+
 
 //列挙型（enum型）は、数値や文字列を列挙する時にとても便利な型
