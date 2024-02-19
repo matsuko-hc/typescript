@@ -21,6 +21,7 @@ console.log(Months.February);
 enum Colors {
 	red = '#FF0000',
 	white = '#FFFFFF',
+	
 	green = '#008000',
 	blue = '#0000FF',
 	black = '#000000'
